@@ -26,7 +26,7 @@ Font Assetsに使いたいフォントアセットを指定してください。
  
  ゲキロウ (Gekiro)https://twitter.com/Gekirou_koto.
 
-# Origin Author 2018
+## Origin Author 2018
 おたもん(o_tamon) (https://okoneya.jp/font/)
  
 ## Reference
