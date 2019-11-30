@@ -20,14 +20,18 @@ Font Assetsに使いたいフォントアセットを指定してください。
  
 # Author
 
-Exective Conversion author 2019
+## Exective Conversion author 2019
 
  月森イズミ(Izumi Tsukimori) https://www.youtube.com/c/TsukimoriIzumiCh
  
  ゲキロウ (Gekiro)https://twitter.com/Gekirou_koto.
+
+##　Origin
+おたもん(o_tamon) (https://okoneya.jp/font/)
  
-Reference by Yasuyuki Enomoto.https://blivesta.com/
-Origin by おたもん(o_tamon) (https://okoneya.jp/font/)
+#Reference
+ Yasuyuki Enomoto.https://blivesta.com/
+
  
 # License
 SIL OPEN FONT LICENSE Version 1.1
