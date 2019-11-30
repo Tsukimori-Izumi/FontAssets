@@ -23,7 +23,11 @@ Font Assetsに使いたいフォントアセットを指定してください。
 Exective Conversion author 2019
 
  月森イズミ(Izumi Tsukimori) https://www.youtube.com/c/TsukimoriIzumiCh
+ 
  ゲキロウ (Gekiro)https://twitter.com/Gekirou_koto.
+ 
+Reference by Yasuyuki Enomoto.https://blivesta.com/
+Origin by おたもん(o_tamon) (https://okoneya.jp/font/)
  
 # License
 SIL OPEN FONT LICENSE Version 1.1
