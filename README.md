@@ -17,7 +17,7 @@ Font Assetsに使いたいフォントアセットを指定してください。
  
 # Note
  
-ひらがな、カタカナ、全角英数、記号、漢字JIS第一水準、キリル文字、ギリシア文字に対応
+ひらがな、カタカナ、全角英数、記号、頻出単語、キリル文字、ギリシア文字に対応
  
 # Author
 
@@ -25,7 +25,7 @@ Font Assetsに使いたいフォントアセットを指定してください。
 
  月森イズミ(Izumi Tsukimori) https://www.youtube.com/c/TsukimoriIzumiCh
  
- ゲキロウ (Gekiro)https://twitter.com/Gekirou_koto.
+ ゲキロウ(Gekiro)　https://twitter.com/Gekirou_koto
 
 ## Origin Author 2018
 おたもん(o_tamon) (https://okoneya.jp/font/)
