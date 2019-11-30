@@ -8,6 +8,7 @@ UnityのTextMeshProで使うフォントアセット集です。
 # Requirement
 
 TexMeshPro 1.0.54(Dec2016)
+Unity 2018.4.9f1で動作確認
  
  
 # Installation
