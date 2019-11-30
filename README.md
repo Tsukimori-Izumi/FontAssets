@@ -21,6 +21,7 @@ Font Assetsに使いたいフォントアセットを指定してください。
 # Author
 
 Exective Conversion author 2019
+
  月森イズミ(Izumi Tsukimori) https://www.youtube.com/c/TsukimoriIzumiCh
  ゲキロウ (Gekiro)https://twitter.com/Gekirou_koto.
  
